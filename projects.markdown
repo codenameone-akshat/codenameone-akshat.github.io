@@ -48,7 +48,7 @@ SpaceBoy Adventures is a 2D side-scroller platformer which requires you to reach
 You have to avoid the alien creatures and collect coins which score you some points.\
 When you reach your home, it spawns you onto the next level.\
 If you die, you're back at the current level.\
-There's a trigger at the bottom of the level to fall into the water making the player drown.\
+There's a trigger at the bottom of the level to fall into the water making the player drown.
 
 
 [Prince of Persia: The Sands of Time Remake]: https://www.ubisoft.com/en-us/game/prince-of-persia/sands-of-time-remake
