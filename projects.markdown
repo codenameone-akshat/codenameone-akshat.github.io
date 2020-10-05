@@ -18,8 +18,8 @@ The mobile version of the best-selling and critically-acclaimed Trials series.
 # [DirectX 9 Renderer]
 ![DX9_Banner](../resources/project_images/DX9_Renderer.png)
 
-This is a very basic renderer based on DirectX 9 rendering API's programmable pipeline.\
-You can view the video of the project [**here**].\
+This is a very basic renderer based on DirectX 9 rendering API's programmable pipeline.  
+You can view the video of the project [**here**].  
 It showcases the following features:
 - Normal Mapping
 - Blinn-Phong Shading
@@ -32,7 +32,7 @@ It showcases the following features:
 # [Renderz]
 ![Renderz_Banner](../resources/project_images/Renderz.png)
 
-An open source WebGL 2.0 2D rendering engine written in JS. Features a simplistic API which is easy for any novice to use.
+An open source WebGL 2.0 2D rendering engine written in JS. Features a simplistic API which is easy for any novice to use.  
 It showcases the following:
 - Texture support
 - Simple Geometry
@@ -42,12 +42,12 @@ It showcases the following:
 Open source lightweight JSON parser with read only functionality written in C++.
 
 # [Spaceboy Adventures]
-![Spaceboy_Banner](../resources/project_images/spaceboy.png)\
+![Spaceboy_Banner](../resources/project_images/spaceboy.png)
 
-SpaceBoy Adventures is a 2D side-scroller platformer which requires you to reach your home at the end.\
-You have to avoid the alien creatures and collect coins which score you some points.\
-When you reach your home, it spawns you onto the next level.\
-If you die, you're back at the current level.\
+SpaceBoy Adventures is a 2D side-scroller platformer which requires you to reach your home at the end.  
+You have to avoid the alien creatures and collect coins which score you some points.  
+When you reach your home, it spawns you onto the next level.  
+If you die, you're back at the current level.  
 There's a trigger at the bottom of the level to fall into the water making the player drown.
 
 
