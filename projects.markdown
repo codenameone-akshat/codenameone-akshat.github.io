@@ -19,7 +19,7 @@ The mobile version of the best-selling and critically-acclaimed Trials series.
 ![DX9_Banner](../resources/project_images/DX9_Renderer.png)
 
 This is a very basic renderer based on DirectX 9 rendering API's programmable pipeline.\
-You can view the video of the project [**Here**].\
+You can view the video of the project [**here**].\
 It showcases the following features:
 - Normal Mapping
 - Blinn-Phong Shading
@@ -57,4 +57,4 @@ There's a trigger at the bottom of the level to fall into the water making the p
 [Renderz]: https://github.com/codenameone-akshat/Renderz/
 [Little JSON Reader]: https://github.com/codenameone-akshat/LittleJsonReader/
 [Spaceboy Adventures]: https://github.com/codenameone-akshat/SpaceBoy-Adventures/
-[**Here**]: https://drive.google.com/file/d/1JGaVfsEu-H6cXR4YkuKRZfWWDbGawHqu/view?usp=sharing
+[**here**]: https://drive.google.com/file/d/1JGaVfsEu-H6cXR4YkuKRZfWWDbGawHqu/view?usp=sharing
