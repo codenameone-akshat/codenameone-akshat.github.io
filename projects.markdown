@@ -15,6 +15,9 @@ A remake of an iconic game introduced to the world by Ubisoft Montreal back in 2
 The mobile version of the best-selling and critically-acclaimed Trials series.
 
 ## Personal Projects
+# [Anarchy Engine]
+A rendering engine that is in progress. The goal of this engine for now is to have a sandbox of my own where I can play around with graphics other engine systems. Right now starting off with Microsoft Windows support only with DirectX 12.
+
 # [DirectX 9 Renderer]
 ![DX9_Banner](../resources/project_images/DX9_Renderer.png)
 
@@ -53,6 +56,7 @@ There's a trigger at the bottom of the level to fall into the water making the p
 
 [Prince of Persia: The Sands of Time Remake]: https://www.ubisoft.com/en-us/game/prince-of-persia/sands-of-time-remake
 [Trials Frontier]: https://www.ubisoft.com/en-us/game/trials-frontier/
+[Anarchy Engine]: https://github.com/codenameone-akshat/anarchyengine/
 [DirectX 9 Renderer]: https://github.com/codenameone-akshat/D3D9_Renderer/
 [Renderz]: https://github.com/codenameone-akshat/Renderz/
 [Little JSON Reader]: https://github.com/codenameone-akshat/LittleJsonReader/
