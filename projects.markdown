@@ -16,7 +16,8 @@ The mobile version of the best-selling and critically-acclaimed Trials series.
 
 ## Personal Projects
 # [Anarchy Engine]
-![Anarchy_Banner](../resources/project_images/CurrentAnarchyStatus.png.png)
+![Anarchy_Banner](../resources/project_images/CurrentAnarchyStatus.png)  
+
 A rendering engine that is in progress. The goal of this engine for now is to have a sandbox of my own where I can play around with graphics other engine systems. Right now starting off with Microsoft Windows support only with DirectX 12.
 
 # [DirectX 9 Renderer]
