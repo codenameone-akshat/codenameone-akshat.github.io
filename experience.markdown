@@ -9,7 +9,7 @@ You can access the full resume [**here**] for a detailed view of the work.
 
 # Systems Programmer
 **Company:** Avalanche Studios Group  
-**Project:** Unannounced
+**Project:** Unannounced  
 **Duration:** September 2021 - Present
 
 # Junior Engine Programmer
