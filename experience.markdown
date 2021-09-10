@@ -7,10 +7,15 @@ permalink: /resume/
 This is just a brief summary of where I have worked and the role I have worked in.  
 You can access the full resume [**here**] for a detailed view of the work.
 
+# Systems Programmer
+**Company:** Avalanche Studios Group  
+**Project:** Unannounced
+**Duration:** September 2021 - Present
+
 # Junior Engine Programmer
 **Company:** Ubisoft Pune  
 **Project:** Prince of Persia: The Sands of Time Remake  
-**Duration:** October 2019 - Present
+**Duration:** October 2019 - September 2021
 
 # Junior Technical Artist
 **Company:** Ubisoft Pune  
