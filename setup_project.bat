@@ -7,7 +7,7 @@ where winget >nul 2>nul
 if %ERRORLEVEL%==0 (
     powershell -Command "Write-Host 'winget is already installed.' -ForegroundColor Green"
 ) else (
-    powershell -Command "Write-Host 'winget is not installed. Attempting to install winget...' -ForegroundColor Orange"
+    powershell -Command "Write-Host 'winget is not installed. Attempting to install winget...' -ForegroundColor DarkYellow"
     powershell -Command "Start-Process ms-appinstaller:?source=https://aka.ms/getwinget -Wait"
     echo Please complete the winget installation in the opened window, then re-run this script.
     exit /b 1
