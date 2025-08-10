@@ -7,10 +7,20 @@ permalink: /resume/
 This is just a brief summary of where I have worked and the role I have worked in.  
 You can access the full resume [**here**] for a detailed view of the work.
 
-# Systems Programmer
+# Engine Technical Lead
 **Company:** Avalanche Studios Group  
-**Project:** Unannounced  
-**Duration:** September 2021 - Present
+**Project:** Central Technology Group  
+**Duration:** March 2025 - Present
+
+# Senior Engine/Systems Programmer
+**Company:** Avalanche Studios Group  
+**Project:** Central Technology Group  
+**Duration:** April 2024 - March 2025
+
+# Engine/Systems Programmer
+**Company:** Avalanche Studios Group  
+**Project:** Call of the Wild: TheAngler | Central Tech  
+**Duration:** September 2021 - April 2024
 
 # Junior Engine Programmer
 **Company:** Ubisoft Pune  
@@ -36,5 +46,4 @@ You can access the full resume [**here**] for a detailed view of the work.
 **Company:** Absentia Virtual Reality  
 **Project:** Cancelled Mobile Sniper FPS Title  
 **Duration:** June 2017 - August 2017
-
 [**here**]: ../resources/resume/akshat_thukral_resume.pdf
