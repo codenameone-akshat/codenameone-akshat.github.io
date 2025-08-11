@@ -24,7 +24,7 @@ Here are some of my responsibilities as an Engine Programmer in Central Technolo
 - Working on engine improvements and engine upgrades for game teams
 
 ---
-## [Call of the Wild: TheAngler]
+## [Call of the Wild: theAngler]
 
 A fishing game which extended the world for the currently popular hunting game, Call of the Wild: theHunter.
 I worked as a sole Engine Programmer and was a liason for multiple programmers across the company for platform specific implementations. A non-exhaustive list of things I did while in the team:-
