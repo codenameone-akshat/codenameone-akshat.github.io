@@ -1,7 +1,5 @@
-@use "sass:color";
-
-@use "rouge-base16-dark" as *;
-@use "default_colors" as *;
+@import "rouge-base16-dark";
+@import "default_colors";
 
 $body-background: $cod-grey !default;
 $body-foreground: $gallery !default;
@@ -228,7 +226,7 @@ hr {
   background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.6), rgba(35, 35, 35, 0.6) 50%, rgba(10, 10, 10, 0.8) 50%, rgba(0, 0, 0, 0.8));
   padding: 8px 18px;
   border-radius: 5px;
-  border: 2px solid color.adjust($hippie-blue, $lightness: -30%);
+  border: 2px solid darken($hippie-blue, 30%);
   color: $conifer;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 14px;

@@ -1,6 +1,8 @@
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-watch
+  - jekyll-feed
   - jekyll-github-metadata
 
 title: Akshat Thukral
@@ -15,6 +17,4 @@ baseurl: /
 url: http://codenameone-akshat.github.io
 
 sass:
-  implementation: sass-embedded
-
-incremental: false
+  quiet_deps: true
