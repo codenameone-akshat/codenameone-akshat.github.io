@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+
+{% seo %}
+  </head>
+
+  <body>
+    <header>
+      <img style="float: right;" src="{{ '/assets/images/clipart.png' | relative_url }}" alt="Image" class="main_image"> 
+      <div class="container">
+        <a id="a-title" href="{{ '/' | relative_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <section id="links">
+          <a href="{{ '/' | relative_url }}" class="btn">Home</a>
+          <a href="{{ './careerhistory' | relative_url }}" class="btn">Career History</a>
+          <a href="{{ './portfolio' | relative_url }}" class="btn">Portfolio</a>
+          <a href="{{ '/resources/resume/akshat_thukral_resume.pdf' | relative_url }}" class="btn">Download CV</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+    
+    <footer class="site-footer">
+      <div class="container">
+        <div class="footer-links">
+          <p>Contact Information and Links:</p>
+          <a href="{{ site.github_url }}">GitHub</a>
+          <a href="{{ site.linkedin_url }}">LinkedIn</a>
+          <a href="mailto:{{ site.email }}">Email</a>
+        </div>
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>
