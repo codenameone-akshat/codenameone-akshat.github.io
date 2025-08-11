@@ -12,19 +12,21 @@
 
   <body>
     <header>
-      <img style="float: right;" src="{{ '/assets/images/clipart.png' | relative_url }}" alt="Image" class="main_image"> 
-      <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        <section id="links">
-          <a href="{{ '/' | relative_url }}" class="btn">Home</a>
-          <a href="{{ './careerhistory' | relative_url }}" class="btn">Career History</a>
-          <a href="{{ './portfolio' | relative_url }}" class="btn">Portfolio</a>
-          <a href="{{ '/resources/resume/akshat_thukral_resume.pdf' | relative_url }}" class="btn">Download CV</a>
-        </section>
-      </div>
+      <font style="font-weight: normal">
+        <img style="float: right;" src="{{ '/assets/images/clipart.png' | relative_url }}" alt="Image" class="main_image">
+        <div class="container">
+          <a id="a-title" href="{{ '/' | relative_url }}">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          </a>
+          <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+          <section id="links">
+            <a href="{{ '/' | relative_url }}" class="btn">Home</a>
+            <a href="{{ './careerhistory' | relative_url }}" class="btn">Career History</a>
+            <a href="{{ './portfolio' | relative_url }}" class="btn">Portfolio</a>
+            <a href="{{ '/resources/resume/akshat_thukral_resume.pdf' | relative_url }}" class="btn">Download CV</a>
+          </section>
+        </div>
+      </font>
     </header>
 
     <div class="container">
